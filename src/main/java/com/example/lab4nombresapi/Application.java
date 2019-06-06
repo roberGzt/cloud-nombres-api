@@ -1,4 +1,4 @@
-package com.example.lab4lemasapi;
+package com.example.lab4nombresapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
